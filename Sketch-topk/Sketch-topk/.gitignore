@@ -1,0 +1,10 @@
+*.xlsx
+# run.sh
+# *.csv
+cuckoo
+test*
+main1.cpp
+[1-9]
+cmp*
+.vscode
+.idea
